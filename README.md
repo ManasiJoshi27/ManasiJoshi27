@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Manasi Joshi
 
-<!--
-**ManasiJoshi27/ManasiJoshi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student (2nd Year) | 💻 Exploring the World of Programming  
+🌱 Currently learning **Python** and **MySQL**  
+📍 Based in Maharashtra, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools I'm Learning:
+- 🐍 Python (Basics + Projects)
+- 🗃️ MySQL (Database)
+- 🧰 Git & GitHub (Version Control)
+
+---
+
+### 📌 Projects Coming Soon:
+- ✔️ Cafe Billing System (Tkinter)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/manasi-joshi-555015280/)
+
+---
+
+> “Learning one step at a time. Not perfect, just progressing.” 💡
